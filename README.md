@@ -1,2 +1,2 @@
-# presentations
-backup material for public presentations
+# talks & presentations
+backup material for public talks & presentations
